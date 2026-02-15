@@ -1840,6 +1840,7 @@
 - [James Russell](https://github.com/James-blend/)
 - [Dastageer HC](https://github.com/dastageer-hc)
 - [Serhat Bağlam](https://github.com/Rserhat01)
+- [Felipe da Rocha Vieira Mattos](https://github.com/felipervm)
 - [Tim Maingi](https://github.com/Merch7x)
 - [Suchkov Denis](https://github.com/SuchkovDenis)
 - [BernardoMacedo](https://github.com/bernardo-macedo)
